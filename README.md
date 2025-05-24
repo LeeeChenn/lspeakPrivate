@@ -26,11 +26,9 @@
 
 <div align="center">
   <a href="https://apps.apple.com/cn/app/%E5%90%AC%E8%AF%B4-%E5%BD%B1%E5%AD%90%E8%B7%9F%E8%AF%BB/id6740522431?mt=12" 
-     class="download-link" 
      target="_blank" 
      rel="noopener noreferrer">
     <img src="https://developer.apple.com/app-store/marketing/guidelines/images/badge-download-on-the-mac-app-store.svg" 
-         href="https://apps.apple.com/cn/app/%E5%90%AC%E8%AF%B4-%E5%BD%B1%E5%AD%90%E8%B7%9F%E8%AF%BB/id6740522431?mt=12"
          alt="Download on the Mac App Store" 
          width="200">
   </a>
